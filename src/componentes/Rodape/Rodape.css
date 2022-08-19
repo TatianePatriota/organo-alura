@@ -1,0 +1,20 @@
+.rodape {
+  background-color: #6278F7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  flex-wrap: wrap;
+}
+
+
+.redes {
+  width: 33%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rodape p {
+  color: #FFFFFF;
+  font-size: 20px;
+}
