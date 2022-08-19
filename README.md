@@ -1,0 +1,1 @@
+Organo, projeto feito com react, com objetivo de criar componentes reaproveitados e pegar dados do input e adicionar nos times.
