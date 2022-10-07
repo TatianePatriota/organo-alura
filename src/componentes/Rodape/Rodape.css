@@ -1,20 +1,18 @@
 .rodape {
   background-color: #6278F7;
+  color: #FFFFFF;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 40px;
-  flex-wrap: wrap;
+  padding: 80px;
 }
 
 
-.redes {
-  width: 33%;
-  display: flex;
-  justify-content: space-between;
+.rodape ul li {
+  display: inline-block;
+  margin-right: 32px;
 }
 
-.rodape p {
-  color: #FFFFFF;
-  font-size: 20px;
+.rodape ul li:last-child {
+  margin-right: 0;
 }
